@@ -1,0 +1,24 @@
+
+Natural Language Understanding Engineer
+Data & Analytics / Engineering & IT / Machine Learning / Software Engineering in Boston, USA
+What you’ll do
+
+    Be a key member of a cross-functional team innovating the Spotify conversational interface.
+    Collaborate with software engineers, data engineers, ML experts, and other NLU experts in designing, building, evaluating, shipping and tweaking iterations of the components of the Spotify conversational interface.
+    Contribute code to high-scale, robust software products
+
+    Be part of an active group of machine learners in Boston (and across Spotify) learning from and encouraging one another
+
+    Work from our Boston office (Davis Square), with frequent collaboration with our Stockholm, San Francisco, and New York offices
+
+Who you are
+
+    Graduate-level expertise (e.g., Ph.D.) in natural language understanding, including machine learning based approaches
+    Multiple years of industrial experience in building conversational agents via speech or text (e.g., chatbots), experience in modelling conversational dialogs is especially valued
+
+    Experience implementing systems at scale in Java, Scala, Python or similar languages
+    You care about agile software processes, data-driven development, reliability, and disciplined experimentation
+    You preferably have experience with data processing and storage frameworks like Hadoop, Scalding, Spark, Storm, Cassandra, Kafka, etc.
+
+We are proud to foster a workplace free from discrimination. We strongly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better product for our users and our creators. This is something we value deeply and we encourage everyone to come be a part of changing the way the world listens to music.
+Did we mention that machine learning is important to this role? Machine learning is the best. Natural language understanding is also very important.

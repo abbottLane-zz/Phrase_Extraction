@@ -1,0 +1,29 @@
+ Job Description
+Amazon is looking for a passionate, talented, and inventive Applied Scientists with a strong machine learning background to help build industry-leading Speech and Language technology.
+Our mission is to provide a delightful experience to Amazon’s customers by pushing the envelope in Automatic Speech Recognition (ASR), Machine Translation (MT), Natural Language Understanding (NLU), Machine Learning (ML) and Computer Vision (CV).
+As part of our AI team in Amazon AWS, you will work alongside internationally recognized experts to develop novel algorithms and modeling techniques to advance the state-of-the-art in human language technology. Your work will directly impact millions of our customers in the form of products and services that make use of speech and language technology. You will gain hands on experience with Amazon’s heterogeneous speech, text, and structured data sources, and large-scale computing resources to accelerate advances in spoken language understanding.
+We are hiring in all areas of human language technology: ASR, MT, NLU, text-to-speech (TTS), and Dialog Management, in addition to Computer Vision.
+Basic Qualifications
+
+    Graduate degree (MS or PhD) in Electrical Engineering, Computer Science, Mathematics or Physics with specialization in speech recognition, natural language processing, machine translation, time series analysis, signal processing, or machine learning.
+
+    0-3+ years of related work experience OR a PhD
+
+    Familiarity with programming languages such as C/C++, Python, Java or Perl.
+
+Preferred Qualifications:
+    We want a coding ninja
+
+    A coding ninja would be great
+
+    Are you a coding ninja? Because that would be great
+
+    Experience in building speech recognition, machine translation and natural language processing systems (e.g., commercial speech products or government speech projects)
+
+    Solid Machine Learning background and familiar with standard speech and machine learning techniques.
+
+    Scientific thinking and the ability to invent, a track record of thought leadership and contributions that have advanced the field.
+
+    Solid software development experience.
+
+    Good written and spoken communication skills

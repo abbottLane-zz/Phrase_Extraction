@@ -1,0 +1,54 @@
+Computational Research Scientist (Natural Language Processing)
+Job Posting Number: 15328
+Information Technology
+New York, NY
+August 1, 2017
+Apply
+Add to Cart
+Company Overview:
+
+At Memorial Sloan Kettering (MSK), we’re not only changing the way we treat cancer, but also the way the world thinks about it. By working together and pushing forward with innovation and discovery, we’re driving excellence and improving outcomes.
+
+For the 27th year, MSK has been named a top hospital for cancer by U.S. News & World Report. We are proud to be on Becker’s Healthcare list as one of the 150 Great Places to Work in Healthcare in 2016, as well as Glassdoor’s annual Employees’ Choice Awards 2017. We’re treating cancer, one patient at a time. Join us and make a difference every day.
+
+Job Details:
+
+Research Computational Scientist/Senior Computational Scientist in Big Data Analytics for the Precision Pathology Biobanking Center at MSKCC
+
+We are looking for an experienced Computer Scientist, Physicist, Engineer, or Applied Mathematician who would like to drive a newly established group of quantitative scientists in Cancer Research. This is an ideal opportunity for a strong computational person to learn about and deeply impact the future of cancer research, medicine, and health care.
+
+The Precision Pathology Biobanking Center (PPBC) is a newly established Research Center at MSK and its Department of Pathology.
+
+Using complex real-world structured, text, and image data, Memorial Sloan Kettering (MSK) has collected over the past 20+ years, the Scientist will develop and implement advanced computational methods to power the PPBC’s efforts to build a world-class analytics platform for healthcare data. The development and implementation of cutting-edge computational Big Data Analytics represents a major strategic priority for the Center. This recruitment seeks to expand this expertise within the Center.
+
+The right candidate will have a track record of developing new quantitative methods such as Machine Learning, Artificial Intelligence (AI), or Natural Language Processing (NLP) and apply them to complex problems in medicine. To that end, the Computational Scientist will actively contribute to the research community through collaborations with academic partners, publishing in peer-reviewed journals, and attending top-tier conferences.
+
+This position is a leadership position in computational science for the PPBC and will develop, oversee, and implement a comprehensive computational strategy for the Center in addition to directing a team of computational specialists.
+
+You Will:
+
+    Develop tools and approaches for integrated “big data” analytics using various database sources within PPBC and MSK, including multi-omics data, clinico-pathological data, and imaging data
+    Develop quantitative systems biological modeling approaches and mapping of data onto biological pathways and networks
+    Bring experience in machine learning with a proven track record of developing and applying advanced computational techniques to solve complex problems
+    Work closely with other IT/computational groups throughout MSKCC on development and federation of database systems
+    Develop software and scripts using a mix of the following: C/C++, Python, Java, Perl/CGI, JavaScript, Ruby, and SQL
+    Experience working with high-performance computing clusters, especially ones designed for AI/machine learning applications; help plan and guide hardware and software requirements for HPC cluster expansion
+    Stayscurrent with latest computing algorithms and tools
+    Work with Linux systems administrators to configure new and existing software packages for security, performance, and maintainability
+
+You Need:
+
+    Recent PhD (preferred) or Master’s Degree (2+ years of experience) in Computer Science, Physics, Engineering, Applied Mathematics, or related field. PhD students who are about to graduate are especially encouraged to apply.
+    Deep knowledge of advanced machine learning methodologies such as deep learning, graphical models, and natural language processing
+    Strong background in developing new algorithms and implementing algorithms from the scientific literature
+    Experience with SQL and NoSQL databases
+    Solid experience with programming and scripting (C/C++, Python, Perl, etc.)
+    Experience with building, configuring, running, and maintaining Linux servers preferred
+    High-performance computing experience preferred
+    Prior medical, biology, or health care experience not required (we’ll teach you in our center)
+
+#Li-SK2
+
+MSK is an equal opportunity and affirmative action employer committed to diversity and inclusion in all aspects of recruiting and employment. All qualified individuals are encouraged to apply and will receive consideration without regard to race, color, gender, gender identity or expression, sexual orientation, national origin, age, religion, creed, disability, veteran status or any other factor which cannot lawfully be used as a basis for an employment decision.
+
+Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
